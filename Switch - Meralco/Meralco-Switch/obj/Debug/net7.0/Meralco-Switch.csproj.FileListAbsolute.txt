@@ -1,0 +1,14 @@
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\bin\Debug\net7.0\Meralco-Switch.exe
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\bin\Debug\net7.0\Meralco-Switch.deps.json
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\bin\Debug\net7.0\Meralco-Switch.runtimeconfig.json
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\bin\Debug\net7.0\Meralco-Switch.dll
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\bin\Debug\net7.0\Meralco-Switch.pdb
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\Meralco-Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\Meralco-Switch.AssemblyInfoInputs.cache
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\Meralco-Switch.AssemblyInfo.cs
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\Meralco-Switch.csproj.CoreCompileInputs.cache
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\Meralco-Switch.dll
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\refint\Meralco-Switch.dll
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\Meralco-Switch.pdb
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\Meralco-Switch.genruntimeconfig.cache
+D:\Lex\Documents\Visual Studio 2022\Programs\Meralco-Switch\Meralco-Switch\obj\Debug\net7.0\ref\Meralco-Switch.dll
